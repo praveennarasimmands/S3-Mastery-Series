@@ -157,9 +157,3 @@ We welcome contributions to this repository! If you'd like to contribute a new t
 4. Push the changes to your forked repository.
 5. Open a pull request for review.
 
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
