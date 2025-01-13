@@ -163,7 +163,3 @@ We welcome contributions to this repository! If you'd like to contribute a new t
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
-
-Thank you for checking out the **AWS S3 Concepts** series! Happy learning and building!
-
