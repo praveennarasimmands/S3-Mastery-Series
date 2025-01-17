@@ -39,7 +39,7 @@ Each video in the series dives deep into the concept and includes practical, han
 
 ## S3 Security - Bucket Policy
 
-**Video:** [Link to Video](#)  
+**Video:** [Link to Video](soon)  
 **Description:** This video explains the importance of AWS S3 bucket policies for controlling access to your S3 buckets. You will learn how to define bucket policies, secure your data, and configure permissions effectively using IAM policies and bucket-level permissions.
 
 **Key Topics:**
@@ -51,7 +51,7 @@ Each video in the series dives deep into the concept and includes practical, han
 
 ## S3 Versioning
 
-**Video:** [Link to Video](#)  
+**Video:** [Link to Video](soon)  
 **Description:** S3 Versioning helps you protect your data from accidental overwrites and deletions. In this video, we explore how to enable versioning, retrieve previous versions, and manage object history.
 
 **Key Topics:**
@@ -64,7 +64,7 @@ Each video in the series dives deep into the concept and includes practical, han
 
 ## S3 Replication
 
-**Video:** [Link to Video](#)  
+**Video:** [Link to Video](soon)  
 **Description:** Learn how to set up cross-region replication (CRR) and same-region replication (SRR) to improve data availability and durability across different AWS regions.
 
 **Key Topics:**
@@ -76,7 +76,7 @@ Each video in the series dives deep into the concept and includes practical, han
 
 ## S3 Storage Classes
 
-**Video:** [Link to Video](#)  
+**Video:** [Link to Video](soon)  
 **Description:** This video introduces various S3 storage classes to optimize cost and performance for different types of data. Learn about Standard, Intelligent-Tiering, One Zone-IA, Glacier, and more.
 
 **Key Topics:**
@@ -88,7 +88,7 @@ Each video in the series dives deep into the concept and includes practical, han
 
 ## S3 Lifecycle Rules
 
-**Video:** [Link to Video](#)  
+**Video:** [Link to Video](soon)  
 **Description:** Automate data management by applying lifecycle rules. In this video, we explore how to configure lifecycle policies for archiving and deleting objects to optimize cost.
 
 **Key Topics:**
@@ -100,7 +100,7 @@ Each video in the series dives deep into the concept and includes practical, han
 
 ## S3 Performance
 
-**Video:** [Link to Video](#)  
+**Video:** [Link to Video](soon)  
 **Description:** Maximize the performance of your S3 usage. We cover best practices for optimizing S3 requests, reducing latency, and enhancing data retrieval speed.
 
 **Key Topics:**
@@ -112,7 +112,7 @@ Each video in the series dives deep into the concept and includes practical, han
 
 ## S3 Encryption
 
-**Video:** [Link to Video](#)  
+**Video:** [Link to Video](soon)  
 **Description:** Learn about S3 encryption options to secure your data in transit and at rest. This video covers how to enable encryption using AWS-managed keys (SSE-S3) and customer-managed keys (SSE-KMS).
 
 **Key Topics:**
@@ -124,7 +124,7 @@ Each video in the series dives deep into the concept and includes practical, han
 
 ## S3 Access Points
 
-**Video:** [Link to Video](#)  
+**Video:** [Link to Video](soon)  
 **Description:** S3 Access Points simplify managing access to shared data. Learn how to use access points to provide data access for different applications and teams with distinct permissions.
 
 **Key Topics:**
@@ -136,7 +136,7 @@ Each video in the series dives deep into the concept and includes practical, han
 
 ## S3 Object Lambda
 
-**Video:** [Link to Video](#)  
+**Video:** [Link to Video](soon)  
 **Description:** Explore how S3 Object Lambda enables you to modify and transform data as it is retrieved from S3. This video walks you through creating Lambda functions that process S3 objects dynamically.
 
 **Key Topics:**
